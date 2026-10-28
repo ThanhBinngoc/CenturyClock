@@ -1,0 +1,14 @@
+# ModelSim / QuestaSim artifacts
+work/
+transcript
+*.wlf
+*.vcd
+*.mpf
+*.mti
+*.cr.mti
+*.log
+
+# Editor / OS files
+.DS_Store
+*.swp
+*~
